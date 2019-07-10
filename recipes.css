@@ -1,0 +1,15 @@
+html {
+  background-color: pink;
+}
+
+body {
+  background-color: white;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #ff69b4;
+}
